@@ -1,0 +1,6 @@
+.DS_Store
+vendor
+!/.ddev
+/.ddev/*
+!/.ddev/config.yaml
+!/.ddev/php/
